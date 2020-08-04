@@ -19,7 +19,7 @@ _There are no known bugs_
 
 ## Support and contact details
 
-_For any technical issues, ideas, or questions contact brian.harv3y@gmail.com or jillianLgibson@gmail.com_
+_For any technical issues, ideas, or questions contact brian.harv3y@gmail.com or jillian.l.gibson@gmail.com_
 
 ## Technologies Used
 
